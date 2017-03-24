@@ -1,0 +1,20 @@
+{
+    "version_name": "0.2.1",
+    "version_code": 2,
+    "description": "这是一个最新的版本，主要功能有：1.blablabla\n2.blablabla\n3.blablabla\n4.dudududud",
+    "released_at": "20170324",
+	"size": 4923038,
+    "debug": 0,
+	"url":"https://lilinmao.github.io/apk/app-debug-v0.2.1-2.apk"
+    "history_versions": [
+        {
+            "version_name": "0.2.1",
+            "version_code": 2,
+            "released_at": "20170324",
+            "description": "这是一个最新的版本，主要功能有：1.blablabla\n2.blablabla\n3.blablabla\n4.dudududud",
+			"size": 2164180,
+            "debug": 0,
+	"url":"https://lilinmao.github.io/apk/app-debug-v0.1.1-1.apk"
+        }
+    ]
+}
