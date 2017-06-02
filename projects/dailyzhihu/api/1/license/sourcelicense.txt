@@ -8,6 +8,15 @@ Copyright 2008 Google Inc.
 Licensed under the Apache License, Version 2.0 (the "License");http://www.apache.org/licenses/LICENSE-2.0
 
 ！ ！ ！ ！ ！ ！ ！ ！
+retrofit-2.2.0
+！ ！ ！ ！ ！ ！ ！ ！
+http://square.github.io/retrofit/
+https://github.com/square/retrofit
+Copyright 2013 Square, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");http://www.apache.org/licenses/LICENSE-2.0
+
+！ ！ ！ ！ ！ ！ ！ ！
 okhttp-2.7.5
 ！ ！ ！ ！ ！ ！ ！ ！
 libs/okhttp-2.7.5.jar
@@ -33,6 +42,14 @@ https://github.com/JakeWharton/butterknife
 Copyright 2013 Jake Wharton
 Licensed under the Apache License, Version 2.0 (the "License");http://www.apache.org/licenses/LICENSE-2.0
 
+！ ！ ！ ！ ！ ！ ！ ！
+dagger2:2.10
+！ ！ ！ ！ ！ ！ ！ ！
+https://google.github.io/dagger/
+https://github.com/google/dagger
+
+Copyright 2012 The Dagger Authors
+Licensed under the Apache License, Version 2.0 (the "License");http://www.apache.org/licenses/LICENSE-2.0
 
 ！ ！ ！ ！ ！ ！ ！ ！
 springindicator:1.0.2
@@ -135,4 +152,20 @@ android-auto-scroll-view-pager:1.1.2
 https://github.com/Trinea/android-auto-scroll-view-pager
 
 Copyright 2014 trinea.cn
+Licensed under the Apache License, Version 2.0 (the "License");http://www.apache.org/licenses/LICENSE-2.0
+
+！ ！ ！ ！ ！ ！ ！ ！
+RxJava:2.0.7
+！ ！ ！ ！ ！ ！ ！ ！
+https://github.com/ReactiveX/RxJava
+
+Copyright (c) 2016-present, RxJava Contributors.
+Licensed under the Apache License, Version 2.0 (the "License");http://www.apache.org/licenses/LICENSE-2.0
+
+！ ！ ！ ！ ！ ！ ！ ！
+rxandroid:2.0.1
+！ ！ ！ ！ ！ ！ ！ ！
+https://github.com/ReactiveX/RxAndroid
+
+Copyright (c) 2016-present, RxJava Contributors.
 Licensed under the Apache License, Version 2.0 (the "License");http://www.apache.org/licenses/LICENSE-2.0
